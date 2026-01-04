@@ -1,0 +1,15 @@
+# Core LangChain y LanGraph
+langgraph   # El cerebro: orquesta el flujo del agente 
+langchain   # Abstracciones para trabajar con LLMs
+langchain_openai    # Integracion especifica con GPT
+langchain_community # Paquetes adicionales
+
+# Navegador web automatizada
+playwright    # Control de navegadores como un humano
+beautifulsoup4 # Parseo de HTML
+lxml          # Motor Rapido para BS4
+
+# Interfaz y Utilidades
+gradio      # Interfaz de usuario rapida
+requests # Para las notificaciones push
+python-dotenv # Manejo de variables de entorno de forma segura
